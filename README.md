@@ -3,7 +3,7 @@
 - 🌱 I’m currently an AWS Academy Graduate and a Cisco networking fundamentals alum.
 - ✔ I've worked on projects like an ecommerce webapp,google drive clone,real time chap app, reminder app etc all web based using react and most firebase for backend.
 - 💞️ I’m looking forward to mentorships,internships and collaboration on open source projects to make me better.
-- 📫 How to reach me denoblesnobility2@gmail.com
+- 📫 How to reach me fiawornunobel@gmail.com
 - Linkedin profile https://www.linkedin.com/in/noble-fiawornu/
 
 <!---
