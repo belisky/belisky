@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nobel Fiawornu, a Cloud DevOps Engineer with a focus on designing,deploying and maintaining complex architectures to multi-cloud environments.
--   I have a strong background in Computer network, systems administration, microservices using Docker and Kubernetes and I am proficient in scripting languages such as Python and Bash.
+-   I have a strong background in Computer networking, systems administration, and microservices using Docker and Kubernetes and I am proficient in scripting languages such as Python and Bash.
 -   I enjoy working collaborately in resolving critical production issues ensuring that Client's infrastructure systems are running smoothly.
 - 👀 I’m interested in DevOps,Cloud Engineering,Cyber security, AI & ML.
 - 🌱 I’m currently an AWS certified Solutions Architect Associate and AWS Certified Developer Associate.
